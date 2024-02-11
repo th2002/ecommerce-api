@@ -20,9 +20,10 @@
     "paths": {
       "@/*": ["src/*"],
       "@dto/*": ["src/dto/*"],
-      "@/entities*": ["src/entities/*"],
-      "@/middlewares*": ["src/middlewares/*"],
-      "@/modules*": ["src/modules*"]
+      "@entities/*": ["src/entities/*"],
+      "@middlewares/*": ["src/middlewares/*"],
+      "@modules/*": ["src/modules/*"],
+      "@schemas/*": ["src/schemas/*"]
     }
   }
 }
